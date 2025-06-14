@@ -1,5 +1,6 @@
 # 🏠 Prédiction du Prix des Maisons – Techniques Avancées de Régression  
 *Lilian Page, Torres Diego*
+Ce projet a été réalisé avec l'aide de ChatGPT
 
 ## 🎯 Objectif du Projet
 
